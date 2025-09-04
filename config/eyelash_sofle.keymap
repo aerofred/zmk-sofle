@@ -84,7 +84,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &kp LEFT_CONTROL  &kp LEFT_ALT &kp SPACE  &SPACE    &trans  &kp LEFT_GUI  &tog 3  &trans  &trans  &trans
+&trans  &trans  &kp LEFT_CONTROL  &kp LEFT_ALT &kp SPACE  &kp SPACE    &trans  &kp LEFT_GUI  &tog 3  &trans  &trans  &trans
             >;
             display-name = "Game";
             sensor-bindings = <&scroll_encoder>;            
