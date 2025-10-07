@@ -1,4 +1,4 @@
-#define ZMK_POINTING_DEFAULT_MOVE_VAL 600  // 600
+#define ZMK_POINTING_DEFAULT_MOVE_VAL 1000  // 600
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 10   // 10
 
 #include <input/processors.dtsi>
@@ -22,7 +22,7 @@
 };
 
 &mmv {
-    time-to-max-speed-ms = <1000>;
+    time-to-max-speed-ms = <800>;
     acceleration-exponent = <1>;
     trigger-period-ms = <16>;
 };
